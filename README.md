@@ -1,6 +1,6 @@
 
 ## 💻 todo.draxya.com
-![Preview](https://user-images.githubusercontent.com/68575901/156886996-702dce5d-6cda-4665-8ad9-6df57313c512.png)
+![Preview](https://user-images.githubusercontent.com/68575901/156895732-5439221a-c1ad-49c7-8bc8-02f22034046c.png)
 
 ## 📋 React Yapılacaklar Listesi
 
