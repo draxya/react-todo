@@ -142,7 +142,7 @@ const App = () => {
 	  
     </div>
 	<div class="footer">
-		<a href='https://github.com/draxya' target='_blank' rel="noopener noreferrer"><FaGithub className='github'/></a>
+		<a href='https://github.com/draxya/react-yapilacaklar' target='_blank' rel="noopener noreferrer"><FaGithub className='github'/></a>
 	</div>
 	</>
   );
