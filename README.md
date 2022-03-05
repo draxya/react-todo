@@ -1,13 +1,12 @@
 
-<p align="center">
-  <p align="center">💻 todo.draxya.com</p>
-</p>
+## 💻 todo.draxya.com
+![Preview](https://user-images.githubusercontent.com/68575901/156886996-702dce5d-6cda-4665-8ad9-6df57313c512.png)
 
-## React Yapılacaklar Listesi
+## 📋 React Yapılacaklar Listesi
 
 Minimalist ve özelleştirilebilir yapılacaklar uygulaması.
 
-## Özellikler
+## 📌 Özellikler
 
 - Karanlık mod
 - Yeniden sıralamak için görevleri sürükleyip bırak
@@ -17,7 +16,7 @@ Minimalist ve özelleştirilebilir yapılacaklar uygulaması.
 - Bildirim kutusu
 - Tablet & mobil desteği
 
-## Kurulum
+## ⚙️ Kurulum
 
 İlk önce bu repoyu klonlayın.
 ```bash
@@ -34,7 +33,7 @@ $ npm install # veya yarn
 $ npm start # veya yarn start
 ```
 
-## Deployment
+## 💞 Deploying
 
 Netlify için:
 - Base directory:
@@ -47,7 +46,7 @@ Vercel için:
 - Install command: ```npm install```
 - Development command: ```react-scripts start```
 
-## Built with
+## 🛠 Built with
 
 - React Js, Css, Sass
 - React Hooks : useState, useEffect, useRef, useContext
